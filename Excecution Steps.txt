@@ -1,0 +1,16 @@
+Excecution steps:
+ 1. Open Pycharm Application.
+ 2. Go to Project (Smartcommunication).
+ 3. Open the file  main.py.
+ 4. Go to terminal and run the file.
+ 5. A pop-up window will be visible.
+ 6. A Text-to-speech converter will ask you for the input.
+   6a.Text input.
+   6b.Text file input.
+ 7. Click on speech converter and output will be shown in the form of speech.
+ 8. The speech-to-text converter will ask for the input.
+   8a. Input speech is recorded.
+ 9.Input speech is recorded and the output will be given in the form of text.
+ 10.Image converter will ask for the input.
+ 11. An image file will be uploaded.
+ 12.The output will be given in the form of both text and speech. 
